@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Pesonal-FAQ-with-React/static/css/main.b1bf6609.chunk.css",
-    "main.js": "/Pesonal-FAQ-with-React/static/js/main.0d76255d.chunk.js",
-    "main.js.map": "/Pesonal-FAQ-with-React/static/js/main.0d76255d.chunk.js.map",
-    "runtime-main.js": "/Pesonal-FAQ-with-React/static/js/runtime-main.09e654a0.js",
-    "runtime-main.js.map": "/Pesonal-FAQ-with-React/static/js/runtime-main.09e654a0.js.map",
-    "static/js/2.564c94b4.chunk.js": "/Pesonal-FAQ-with-React/static/js/2.564c94b4.chunk.js",
-    "static/js/2.564c94b4.chunk.js.map": "/Pesonal-FAQ-with-React/static/js/2.564c94b4.chunk.js.map",
-    "static/js/3.ebd94a99.chunk.js": "/Pesonal-FAQ-with-React/static/js/3.ebd94a99.chunk.js",
-    "static/js/3.ebd94a99.chunk.js.map": "/Pesonal-FAQ-with-React/static/js/3.ebd94a99.chunk.js.map",
-    "index.html": "/Pesonal-FAQ-with-React/index.html",
-    "static/css/main.b1bf6609.chunk.css.map": "/Pesonal-FAQ-with-React/static/css/main.b1bf6609.chunk.css.map",
-    "static/js/2.564c94b4.chunk.js.LICENSE.txt": "/Pesonal-FAQ-with-React/static/js/2.564c94b4.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Pesonal-FAQ-with-React/static/media/arrow.ccb58c88.svg"
+    "main.css": "/Personal-FAQ-with-React/static/css/main.1912a298.chunk.css",
+    "main.js": "/Personal-FAQ-with-React/static/js/main.0d76255d.chunk.js",
+    "main.js.map": "/Personal-FAQ-with-React/static/js/main.0d76255d.chunk.js.map",
+    "runtime-main.js": "/Personal-FAQ-with-React/static/js/runtime-main.a320d721.js",
+    "runtime-main.js.map": "/Personal-FAQ-with-React/static/js/runtime-main.a320d721.js.map",
+    "static/js/2.564c94b4.chunk.js": "/Personal-FAQ-with-React/static/js/2.564c94b4.chunk.js",
+    "static/js/2.564c94b4.chunk.js.map": "/Personal-FAQ-with-React/static/js/2.564c94b4.chunk.js.map",
+    "static/js/3.ebd94a99.chunk.js": "/Personal-FAQ-with-React/static/js/3.ebd94a99.chunk.js",
+    "static/js/3.ebd94a99.chunk.js.map": "/Personal-FAQ-with-React/static/js/3.ebd94a99.chunk.js.map",
+    "index.html": "/Personal-FAQ-with-React/index.html",
+    "static/css/main.1912a298.chunk.css.map": "/Personal-FAQ-with-React/static/css/main.1912a298.chunk.css.map",
+    "static/js/2.564c94b4.chunk.js.LICENSE.txt": "/Personal-FAQ-with-React/static/js/2.564c94b4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Personal-FAQ-with-React/static/media/arrow.ccb58c88.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.09e654a0.js",
+    "static/js/runtime-main.a320d721.js",
     "static/js/2.564c94b4.chunk.js",
-    "static/css/main.b1bf6609.chunk.css",
+    "static/css/main.1912a298.chunk.css",
     "static/js/main.0d76255d.chunk.js"
   ]
 }
