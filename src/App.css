@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App {
+  text-align: center;
+}
+
+
+h1 span.react {
+color: rgb(67, 6, 221);
+}
+
+.faqs {
+margin: 0 auto;
+width: 100%;
+max-width: 400px;
+padding: 10px;
+}
+
+.faqs .faq {
+background: rgb(228, 228, 228);
+padding: 10px;
+box-shadow: 0px 0px 7px rgb(145, 145, 145);
+}
+
+.faqs .faq:hover {
+  background-color: rgb(212, 211, 211);
+}
+
+.faqs .faq .faq-question {
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.faqs .faq .faq-question::after {
+content:"";
+position: absolute;
+top: 15%;
+right: 0px;
+transform: translate(-50%);
+width: 20px;
+height: 20px;
+background: url('./arrow.svg');
+background-position:  center;
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+.faqs .faq .faq-answer {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+}
+
+.faqs .faq.open .faq-question {
+  margin-bottom: 25px;
+}
+
+.faqs .faq.open .faq-question::after {
+  transform: translate(-50%) rotate(180deg);
+  transition: all 0.2s ease;
+ }
+.faqs .faq.open .faq-answer {
+  max-height: 1000px;
+  opacity: 1;
+  transition: all 1.2s ease;
+}
