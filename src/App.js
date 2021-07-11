@@ -6,7 +6,6 @@ import data from './data';
 
 function App() {
     const [QandA, setQandA] = useState(data);
-
     const [title, setTitleColor] = useState(false);
 
     const toggleTitleColor = faq => {
@@ -21,7 +20,7 @@ function App() {
                 faq.open = false;
             }
             return faq;
-        }))
+        }));
     }
 
     return (
