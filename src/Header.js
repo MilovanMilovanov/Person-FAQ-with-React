@@ -1,5 +1,5 @@
 import React from 'react';
-import getRandomColor from './utils';
+import { getRandomColor } from './utils';
 
 function Header({ titleColor }) {
     const title = <span style={{ color: titleColor ? getRandomColor(): '' }}> React</span >;
